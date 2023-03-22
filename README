@@ -1,4 +1,6 @@
 ## There were two datasets used in this project. The randomForest folder contains code to run the model on the "EEG Motor Movement/Imagery Dataset" data set. The linearSVM folder contains code to run the model on both the "EEG Motor Movement/Imagery Dataset" and the "Motor Imagery vs Rest - Low-Cost EEG System" data set. The mi_bci_binary file is used with the "Motor Imagery vs Rest - Low-Cost EEG System". The mi_bci_multiclass file is used with the "EEG Motor Movement/Imagery" Dataset. The links to each are provided below. 
+
+
 ##Acknowledgements
 
 Motor Imagery vs Rest - Low-Cost EEG System
