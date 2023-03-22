@@ -1,9 +1,11 @@
+## There were two datasets used in this project. The randomForest folder contains code to run the model on the "EEG Motor Movement/Imagery Dataset" data set. The linearSVM folder contains code to run the model on both the "EEG Motor Movement/Imagery Dataset" and the "Motor Imagery vs Rest - Low-Cost EEG System" data set. The mi_bci_binary file is used with the "Motor Imagery vs Rest - Low-Cost EEG System". The mi_bci_multiclass file is used with the "EEG Motor Movement/Imagery" Dataset. The links to each are provided below. 
 ##Acknowledgements
-There were two datasets used in this project. 
 
+Motor Imagery vs Rest - Low-Cost EEG System
 The first data set consists of electroencephalography (EEG) signals adquired with a low-cost consumer-grade device. The 10 participants had no previous BCI experience.  The BCI protocol consisted of two conditions, namely the kinesthetic imagination of grasping movement (MI) of the dominant hand and rest/idle condition.Five protocol runs were asked to be performed by the user. The first run, called RUN0, involved real grasping  movement in order to better explain the protocol and to help the subject to focus on the sensation of making the movement.  The rest of the runs (RUN1-RUN4) were equal, consisting of MI vs.Rest conditions. The EMG signals of the dominant hand was adquired for protocol control.  During acquisition, the EEG signals were filtered between 0.5 and 45 Hz with a 3rd order Butterworth bandpass-filter.
 Link to data set on OpenNeuro https://openneuro.org/datasets/ds003810/versions/2.0.2
 
+EEG Motor Movement/Imagery Dataset
 The second data set was originally created and contributed to PhysioBank by Gerwin Schalk (schalk at wadsworth dot org) and his colleagues at the BCI R&D Program, Wadsworth Center, New York State Department of Health, Albany, NY. W.A. Sarnacki collected the data. Aditya Joshi compiled the dataset and prepared the documentation. D.J. McFarland and J.R. Wolpaw were responsible for experimental design and project oversight, respectively. This work was supported by grants from NIH/NIBIB ((EB006356 (GS) and EB00856 (JRW and GS)). 
 
 Link to data set on OpenNeuro https://openneuro.org/datasets/ds004362/versions/1.0.0
