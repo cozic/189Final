@@ -1,14 +1,15 @@
 ##Acknowledgements
 There were two datasets used in this project. 
 
-The first data set consists of electroencephalography (EEG) signals adquired with a low-cost consumer-grade device. The 10 participants had no previous BCI experience. The BCI protocol consisted of two conditions, namely the kinesthetic imagination of grasping movement (MI) of the dominant hand and rest/idle condition.Five protocol runs were asked to be performed by the user. The first run, called RUN0, involved real grasping  movement in order to better explain the protocol and to help the subject to focus on the sensation of making the movement.  The rest of the runs (RUN1-RUN4) were equal, consisting of MI vs.Rest conditions. The EMG signals of the dominant hand was adquired for protocol control.  During acquisition, the EEG signals were filtered between 0.5 and 45 Hz with a 3rd order Butterworth bandpass-filter.
-**Link to data set on OpenNeuro https://openneuro.org/datasets/ds003810/versions/2.0.2**
+The first data set consists of electroencephalography (EEG) signals adquired with a low-cost consumer-grade device. The 10 participants had no previous BCI experience.  The BCI protocol consisted of two conditions, namely the kinesthetic imagination of grasping movement (MI) of the dominant hand and rest/idle condition.Five protocol runs were asked to be performed by the user. The first run, called RUN0, involved real grasping  movement in order to better explain the protocol and to help the subject to focus on the sensation of making the movement.  The rest of the runs (RUN1-RUN4) were equal, consisting of MI vs.Rest conditions. The EMG signals of the dominant hand was adquired for protocol control.  During acquisition, the EEG signals were filtered between 0.5 and 45 Hz with a 3rd order Butterworth bandpass-filter.
+Link to data set on OpenNeuro https://openneuro.org/datasets/ds003810/versions/2.0.2
 
 The second data set was originally created and contributed to PhysioBank by Gerwin Schalk (schalk at wadsworth dot org) and his colleagues at the BCI R&D Program, Wadsworth Center, New York State Department of Health, Albany, NY. W.A. Sarnacki collected the data. Aditya Joshi compiled the dataset and prepared the documentation. D.J. McFarland and J.R. Wolpaw were responsible for experimental design and project oversight, respectively. This work was supported by grants from NIH/NIBIB ((EB006356 (GS) and EB00856 (JRW and GS)). 
-**Link to data set on OpenNeuro https://openneuro.org/datasets/ds004362/versions/1.0.0**
-**To access the initial publication of this dataset, please visit this link to PhysioBank: https://physionet.org/content/eegmmidb/1.0.0/**
 
-## Experiment Protocol
+Link to data set on OpenNeuro https://openneuro.org/datasets/ds004362/versions/1.0.0
+To access the initial publication of this dataset, please visit this link to PhysioBank: https://physionet.org/content/eegmmidb/1.0.0/
+
+## Experiment Protocol (Multiclass Data Set)
  This data set consists of over 1500 one- and two-minute EEG recordings, obtained from 109 volunteers, as described below.                                                                                                                                                                                                  
                                                                                                                                                                                                                                                                                                                            
 Subjects performed different motor/imagery tasks while 64-channel EEG were recorded using the BCI2000 system (http://www.bci2000.org). Each subject performed 14 experimental runs: two one-minute baseline runs (one with eyes open, one with eyes closed), and three two-minute runs of each of the four following tasks:
